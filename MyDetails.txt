@@ -1,3 +1,4 @@
 this file created to keep my details, in GIT hub from the local machine. 
 
 pushing file from local to Git. 
+edited in Git to pull to local machine. 
